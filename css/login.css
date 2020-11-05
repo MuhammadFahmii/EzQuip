@@ -1,0 +1,37 @@
+/* Mobile */
+@media (min-width:576px){
+    body{
+        background-image: url(../img/bailey-zindel-NRQV-hBF10M-unsplash.jpg);
+        background-size: 150%;
+        background-repeat: no-repeat;
+    }
+    .container{
+        width: 50%;
+        box-shadow: 0px 0px 10px black;
+    }
+    
+    a{
+        width: 49%;
+    }
+    button{
+        width: 49%;
+    }
+}
+/* Desktop */
+@media (min-width:992px){
+    body{
+        background-image: url(../img/bailey-zindel-NRQV-hBF10M-unsplash.jpg);
+        background-size: cover;
+    }
+    .container{
+        width: 30%;
+        box-shadow: 0px 0px 10px black;
+    }
+    
+    a{
+        width: 49%;
+    }
+    button{
+        width: 49%;
+    }
+}
