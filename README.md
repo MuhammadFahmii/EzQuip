@@ -5,6 +5,7 @@ EzQuip adalah sistem informasi pengelolaan barang berbasis PHP
 1. PHP v7
 2. Bootstrap 4
 3. FontAwesome
+4. JQuery
 
 # Fitur
 1. Terhubung API RajaOngkir
