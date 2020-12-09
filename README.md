@@ -17,5 +17,5 @@ EzQuip adalah sistem informasi pengelolaan barang berbasis PHP Native
 
 # Penggunaan 
 1. Clone repository ini `git clone https://github.com/MuhammadFahmii/EzQuip.git`
-2. Import database `barang.sql` ke MySql
+2. Import database `gudang.sql` ke MysQL
 3. Run Webserver
